@@ -60,7 +60,8 @@ z: 12800-10000=2800 elementos de desperdicio, que en este caso son enteros, por 
 
 Pregunta 3:
 
-1. #include <iostream>
+```c++
+#include <iostream>
 #include <cassert>
 #include <stdbool.h>
 
@@ -126,4 +127,4 @@ AdjancencyList{
             };
         }
 };
-
+```
